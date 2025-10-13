@@ -8,10 +8,10 @@ WeSplit has your back. Just punch in the check, pick how many friends you’re w
 Enter your check amount 💵  
 Choose how many people you’re splitting with 👯‍♀️  
 Pick a tip percentage or add your own 🧮  
-*Instantly see:*  
+## Instantly see:  
 💸 Amount per person  
 💰 Total including tip  
-⚙️ <span style="font-size: 26px;">Built With</span>
+## ⚙️ <span style="font-size: 26px;">Built With</span>
 🧠 Swift 5+
 🎨 SwiftUI
 📱 iOS 17+
