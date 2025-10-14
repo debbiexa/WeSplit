@@ -12,7 +12,7 @@ Pick a tip percentage or add your own 🧮
 💸 Amount per person  
 💰 Total including tip  
 ## ⚙️ <span style="font-size: 26px;">Built With</span>
-🧠 Swift 5+
-🎨 SwiftUI
-📱 iOS 17+
+🧠 Swift 5+  
+🎨 SwiftUI  
+📱 iOS 17+  
 
